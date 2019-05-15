@@ -1,7 +1,8 @@
-<template format="4"
-        revision="1"
-        name="MVP Dagger"
-        description="Creates a new MVP classes - Presenter, View and Dagger Module.">
+<template 
+    format="4"
+    revision="1"
+    name="TMore MVP Creator"
+    description="Creates MVP classes according to TMore implementation - Presenter, View and Dagger Module.">
 
     <category value="Other"/>
 
